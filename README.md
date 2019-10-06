@@ -1,6 +1,6 @@
 # FirstMeeting
 first meeting for EP
-Before goning to E. Power company, collect the ideas. 
+Before going to E. Power company, collect the ideas. 
 ## 
 The members are free to present any ideas.
 
